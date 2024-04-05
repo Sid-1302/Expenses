@@ -1,3 +1,6 @@
+CHECKOUT THE EXPENSE TRACKER WEBSITE CREATED USING NEXT JS, TAILWIND CSS AND FIREBASE -  [https://sid-1302.github.io/Expenses/](https://sid-1302.github.io/Expenses/)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
