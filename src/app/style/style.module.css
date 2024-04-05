@@ -1,0 +1,19 @@
+.con{
+    text-transform: capitalize;
+    font-size: 35px; 
+    border-radius: 10px;
+    margin: 15px;
+}
+.item,.price,.but{
+    padding:3px;
+    margin:15px;
+    border-radius: 20px;
+}
+.price{
+    width: 45px;
+}
+.but{
+    background-color: black;
+    color:white;
+}
+
